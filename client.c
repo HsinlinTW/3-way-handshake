@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <sys/socket.h>
-#inculde <sys/inet.h>
+#include <sys/inet.h>
 
 int main(){
   
